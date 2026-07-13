@@ -1,8 +1,14 @@
 # Sistema de Control de Estacionamiento
 
-Sistema de gestión de estacionamiento desarrollado en C++ mediante Programación Orientada a Objetos (POO), persistencia de datos en archivos binarios y administración de espacios de estacionamiento.
+Sistema de gestión de estacionamiento desarrollado en **C++** mediante *Programación Orientada a Objetos (POO)*, persistencia de datos en archivos binarios y administración de espacios de estacionamiento.
 
 El sistema permite registrar entradas y salidas de vehículos, generar tickets, administrar convenios empresariales, controlar la ocupación del estacionamiento y generar reportes financieros mediante cortes de caja y facturación.
+
+La aplicación gestiona un estacionamiento con capacidad para múltiples tipos de vehículos, realizando la asignación automática de espacios disponibles, el cálculo de tiempos de permanencia y la aplicación de distintos esquemas de cobro, incluyendo modalidades por hora, por día y pensiones mensuales.
+
+También se incorporan mecanismos de persistencia para conservar información operativa y administrativa entre ejecuciones, permitiendo almacenar tickets, facturas, cortes de caja, estados de ocupación y datos asociados a convenios empresariales. Esta información se organiza automáticamente a través de una estructura de carpetas generada por el sistema durante su configuración inicial.
+
+El proyecto integra conceptos de programación orientada a objetos, gestión de archivos, automatización administrativa y desarrollo multiplataforma, ofreciendo una solución capaz de simular la operación de un sistema real de control y administración de estacionamientos.
 
 ## Características
 
