@@ -280,5 +280,7 @@ La compatibilidad multiplataforma se implementó mediante:
 ## Nota 
 Proyecto desarrollado originalmente con fines académicos y educativos para practicar y fortalecer conocimientos en Programación Orientada a Objetos en C++.
 
+### Historial del Proyecto
+
 - Desarrollo original: **noviembre - diciembre de 2025**.
 - Adaptación multiplataforma (Linux/Windows): **julio de 2026**.
