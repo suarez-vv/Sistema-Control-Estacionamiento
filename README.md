@@ -12,7 +12,7 @@ El proyecto integra conceptos de programación orientada a objetos, gestión de 
 
 <p align="center">
     <img src="screenshots/menu_principal.png" alt="menu_principal" width="50%"><br>
-    <em>Figura 1. Menú Principal.</em><br>
+    <em>Figura 1. Menú Principal del Sistema.</em><br>
 </p>
 
 ## Características
@@ -33,7 +33,7 @@ El proyecto integra conceptos de programación orientada a objetos, gestión de 
 
 <p align="center">
     <img src="screenshots/ingreso_estacionamiento.png" alt="ingreso_estacionamiento" width="50%"><br>
-    <em>Figura 2. Ingreso al Estacionamiento.</em><br>
+    <em>Figura 2. Registro de ingreso de vehículos al estacionamiento.</em><br>
 </p>
 
 ## Tipos de Vehículos
@@ -170,7 +170,7 @@ data/
 
 <p align="center">
     <img src="screenshots/panel_administracion.png" alt="panel_administracion" width="50%"><br>
-    <em>Figura 3. Panel de Administración del Sistema.</em><br>
+    <em>Figura 3. Panel de administración para consultas y generación de reportes.</em><br>
 </p>
 
 # Instalación
