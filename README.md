@@ -11,7 +11,8 @@ También se incorporan mecanismos de persistencia para conservar información op
 El proyecto integra conceptos de programación orientada a objetos, gestión de archivos, automatización administrativa y desarrollo multiplataforma, ofreciendo una solución capaz de simular la operación de un sistema real de control y administración de estacionamientos.
 
 <p align="center">
-    <img src="screenshots/menu_principal.png" alt="menu_principal" width:"50%">
+    <img src="screenshots/menu_principal.png" alt="menu_principal" width="50%"><br>
+    <em>Figura 1. Menú Principal.</em><br>
 </p>
 
 ## Características
@@ -29,6 +30,11 @@ El proyecto integra conceptos de programación orientada a objetos, gestión de 
 * Generación de reportes generales.
 * Persistencia de información mediante archivos binarios.
 * Compatibilidad con Linux y Windows.
+
+<p align="center">
+    <img src="screenshots/ingreso_estacionamiento.png" alt="ingreso_estacionamiento" width="50%"><br>
+    <em>Figura 2. Ingreso al Estacionamiento.</em><br>
+</p>
 
 ## Tipos de Vehículos
 
@@ -100,6 +106,11 @@ El sistema permite aplicar descuentos mediante convenios establecidos entre el e
 ```text
 Sistema-Control-Estacionamiento/
 │
+├── screenshots/
+│   ├── menu.png
+│   ├── ingreso_estacionamiento.png
+│   └── panel_administracion.png
+│
 ├── docs/
 │   ├── Documentación-Técnica-Sistema-Control-Estacionamiento.pdf  
 │   └── Manual-Usuario-Sistema-Control-Estacionamiento.pdf  
@@ -156,6 +167,11 @@ data/
 ├── Tickets_Entrada/
 └── Tickets_Salida/
 ```
+
+<p align="center">
+    <img src="screenshots/panel_administracion.png" alt="panel_administracion" width="50%"><br>
+    <em>Figura 3. Panel de Administración del Sistema.</em><br>
+</p>
 
 # Instalación
 
