@@ -11,7 +11,7 @@ También se incorporan mecanismos de persistencia para conservar información op
 El proyecto integra conceptos de programación orientada a objetos, gestión de archivos, automatización administrativa y desarrollo multiplataforma, ofreciendo una solución capaz de simular la operación de un sistema real de control y administración de estacionamientos.
 
 <p align="center">
-    <img src="menu_principal.png" alt="Descripción de la imagen">
+    <img src="screenshots/menu_principal.png" alt="menu_principal" width:"50%">
 </p>
 
 ## Características
